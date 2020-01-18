@@ -1,0 +1,1 @@
+num counterData = 0;
